@@ -24,6 +24,7 @@ buttons:
   hscontentExitFullScreen: Content ExitFullScreen
 menus:
   hshome: Home
+  hstest-ymf: Test
   hslogin: Login
   hsempty: Empty Page
   hssysManagement: System Manage
